@@ -21,6 +21,10 @@ other:
   + use of NTPClient to get time correct to milliseconds
   + control from inside my home network through websockets
 
+## result 
+ 
+
+
 ## control
 Some additional control functionalities are available through a website, which is only accessed in localhost.
 <img src="/images/website.png"/>
