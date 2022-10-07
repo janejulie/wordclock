@@ -23,7 +23,10 @@ other:
 
 ## result 
  
-
+<img src="/images/result_front.png"/>
+<img src="/images/result_side.png"/>
+<img src="/images/result_bottom.png"/>
+<img src="/images/result_lit.png"/>
 
 ## control
 Some additional control functionalities are available through a website, which is only accessed in localhost.
